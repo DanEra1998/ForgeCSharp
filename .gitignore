@@ -1,0 +1,20 @@
+## Visual Studio / .NET gitignore
+
+# Build results
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# NuGet packages
+packages/
+*.nupkg
+
+# OS files
+.DS_Store
+Thumbs.db
